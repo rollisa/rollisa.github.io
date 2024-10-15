@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /*?*
+Sitemap: https://rollisa.github.io/sitemap.xml
